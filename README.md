@@ -2,7 +2,7 @@
 
 ## Generating go files from .proto files
 ```bash
-protoc --go_out=plugins=grpc:chat chat.proto   
+protoc --go_out=plugins=grpc:chat chat.proto
 ```
 
 ## Run the demo
